@@ -1,0 +1,15 @@
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.csproj.AssemblyReference.cache
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\bin\Debug\net6.0\Recursion.exe
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\bin\Debug\net6.0\Recursion.deps.json
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\bin\Debug\net6.0\Recursion.dll
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\bin\Debug\net6.0\Recursion.pdb
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.dll
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.pdb
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+C:\Users\den00\OneDrive\Рабочий стол\seminar 8\Lection7\Recursion\obj\Debug\net6.0\ref\Recursion.dll
